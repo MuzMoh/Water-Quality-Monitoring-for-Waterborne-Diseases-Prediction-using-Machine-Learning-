@@ -1,8 +1,8 @@
 File Name:
-water_data										: Original dataset used for model building
-best_model.pkl									: Optimised SVM model exported from the Colab code
-Deployment.py									: Code used to deploy the model on localhost
-Sample Data										: Data containing test input values to test the model
+water_data					: Original dataset used for model building
+best_model.pkl					: Optimised SVM model exported from the Colab code
+Deployment.py					: Code used to deploy the model on localhost
+Sample Data					: Data containing test input values to test the model
 
 
 
